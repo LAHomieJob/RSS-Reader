@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="feeds">Feeds</string>
+    <string name="bookmarks">Bookmarks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="read_more">Read more</string>
+    <string name="remove_from_bookmarks">Remove from bookmarks</string>
+    <string name="bookmark_news">Bookmark news</string>
+    <string name="details">Details</string>
+</resources>
